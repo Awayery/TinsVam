@@ -1,0 +1,8 @@
+using ...
+using System.Runtime.CompilerServices;
+
+[assembly: InternalsVisibleTo("MyAssembly.Unit.Tests")]
+
+namespace
+{
+...
